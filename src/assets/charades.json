@@ -1,0 +1,494 @@
+[
+    {
+        "Swedish": "Lejon",
+        "English": "Lion"
+    },
+    {
+        "Swedish": "Paris",
+        "English": "Paris"
+    },
+    {
+        "Swedish": "Berg- och dalbana",
+        "English": "Roller coaster"
+    },
+    {
+        "Swedish": "Öken",
+        "English": "Desert"
+    },
+    {
+        "Swedish": "Eiffeltornet",
+        "English": "Eiffel Tower"
+    },
+    {
+        "Swedish": "Skateboardpark",
+        "English": "Skateboard park"
+    },
+    {
+        "Swedish": "Djungel",
+        "English": "Jungle"
+    },
+    {
+        "Swedish": "Berg",
+        "English": "Mountain"
+    },
+    {
+        "Swedish": "Robot",
+        "English": "Robot"
+    },
+    {
+        "Swedish": "Robotdamnsugare",
+        "English": "Robot vacuum cleaner"
+    },
+    {
+        "Swedish": "Vulkan",
+        "English": "Volcano"
+    },
+    {
+        "Swedish": "Tokyo",
+        "English": "Tokyo"
+    },
+    {
+        "Swedish": "Glass",
+        "English": "Ice cream"
+    },
+    {
+        "Swedish": "Giraff",
+        "English": "Giraffe"
+    },
+    {
+        "Swedish": "Strand",
+        "English": "Beach"
+    },
+    {
+        "Swedish": "Tågstation",
+        "English": "Train station"
+    },
+    {
+        "Swedish": "Pizza",
+        "English": "Pizza"
+    },
+    {
+        "Swedish": "Sydney",
+        "English": "Sydney"
+    },
+    {
+        "Swedish": "Racerbil",
+        "English": "Race car"
+    },
+    {
+        "Swedish": "Snögubbe",
+        "English": "Snowman"
+    },
+    {
+        "Swedish": "Cirkus",
+        "English": "Circus"
+    },
+    {
+        "Swedish": "Skog",
+        "English": "Forest"
+    },
+    {
+        "Swedish": "Piratskepp",
+        "English": "Pirate ship"
+    },
+    {
+        "Swedish": "Kaktus",
+        "English": "Cactus"
+    },
+    {
+        "Swedish": "Zebra",
+        "English": "Zebra"
+    },
+    {
+        "Swedish": "Egyptisk pyramid",
+        "English": "Egyptian pyramid"
+    },
+    {
+        "Swedish": "Sandkastel",
+        "English": "Sandcastle"
+    },
+    {
+        "Swedish": "Rymdfärja",
+        "English": "Space ship"
+    },
+    {
+        "Swedish": "Simbassäng",
+        "English": "Swimming pool"
+    },
+    {
+        "Swedish": "Brasa",
+        "English": "Fireplace"
+    },
+    {
+        "Swedish": "Akvarium",
+        "English": "Aquarium"
+    },
+    {
+        "Swedish": "Fotbollsplan",
+        "English": "Football field"
+    },
+    {
+        "Swedish": "Snöstorm",
+        "English": "Snowstorm"
+    },
+    {
+        "Swedish": "Känguru",
+        "English": "Kangaroo"
+    },
+    {
+        "Swedish": "Big Ben",
+        "English": "Big Ben"
+    },
+    {
+        "Swedish": "Strandboll",
+        "English": "Beach ball"
+    },
+    {
+        "Swedish": "Vulkanutbrott",
+        "English": "Volcano eruption"
+    },
+    {
+        "Swedish": "Luftballong",
+        "English": "Hot air balloon"
+    },
+    {
+        "Swedish": "Cowboy",
+        "English": "Cowboy"
+    },
+    {
+        "Swedish": "Cykel",
+        "English": "Bicycle"
+    },
+    {
+        "Swedish": "Fiskebåt",
+        "English": "Fishing boat"
+    },
+    {
+        "Swedish": "Tropisk ö",
+        "English": "Tropical island"
+    },
+    {
+        "Swedish": "Pingvin",
+        "English": "Penguin"
+    },
+    {
+        "Swedish": "Svamp",
+        "English": "Mushroom"
+    },
+    {
+        "Swedish": "Ubåt",
+        "English": "Submarine"
+    },
+    {
+        "Swedish": "New York City",
+        "English": "New York City"
+    },
+    {
+        "Swedish": "Polarbjörn",
+        "English": "Polar bear"
+    },
+    {
+        "Swedish": "Grotta",
+        "English": "Cave"
+    },
+    {
+        "Swedish": "Tornado",
+        "English": "Tornado"
+    },
+    {
+        "Swedish": "Grottmålningar",
+        "English": "Cave paintings"
+    },
+    {
+        "Swedish": "Choklad",
+        "English": "Chocolate"
+    },
+    {
+        "Swedish": "Slott",
+        "English": "Castle"
+    },
+    {
+        "Swedish": "Helikopter",
+        "English": "Helicopter"
+    },
+    {
+        "Swedish": "Regnbåge",
+        "English": "Rainbow"
+    },
+    {
+        "Swedish": "Vattenfall",
+        "English": "Waterfall"
+    },
+    {
+        "Swedish": "Norrsken",
+        "English": "Northern lights"
+    },
+    {
+        "Swedish": "Kamel",
+        "English": "Camel"
+    },
+    {
+        "Swedish": "Kanot",
+        "English": "Canoe"
+    },
+    {
+        "Swedish": "Glass",
+        "English": "Ice cream"
+    },
+    {
+        "Swedish": "Regnskog",
+        "English": "Rainforest"
+    },
+    {
+        "Swedish": "Snöflinga",
+        "English": "Snowflake"
+    },
+    {
+        "Swedish": "Månlandning",
+        "English": "Moon landing"
+    },
+    {
+        "Swedish": "Teleskop",
+        "English": "Telescope"
+    },
+    {
+        "Swedish": "Fjäril",
+        "English": "Butterfly"
+    },
+    {
+        "Swedish": "Havssköldpadda",
+        "English": "Sea turtle"
+    },
+    {
+        "Swedish": "Måne",
+        "English": "Moon"
+    },
+    {
+        "Swedish": "Bro",
+        "English": "Bridge"
+    },
+    {
+        "Swedish": "Järnväg",
+        "English": "Railway"
+    },
+    {
+        "Swedish": "Flygplan",
+        "English": "Airplane"
+    },
+    {
+        "Swedish": "Fängelse",
+        "English": "Prison"
+    },
+    {
+        "Swedish": "Fiskmås",
+        "English": "Seagull"
+    },
+    {
+        "Swedish": "Isberg",
+        "English": "Iceberg"
+    },
+    {
+        "Swedish": "Tåg",
+        "English": "Train"
+    },
+    {
+        "Swedish": "Haj",
+        "English": "Shark"
+    },
+    {
+        "Swedish": "Brevbärare",
+        "English": "Postman"
+    },
+    {
+        "Swedish": "Jultomte",
+        "English": "Santa Claus"
+    },
+    {
+        "Swedish": "Fetaost",
+        "English": "Feta chesse"
+    },
+    {
+        "Swedish": "Gitarr",
+        "English": "Guitar"
+    },
+    {
+        "Swedish": "Tjurfäktning",
+        "English": "Bull fighting"
+    },
+    {
+        "Swedish": "Morgonkaffe",
+        "English": "Morning coffee"
+    },
+    {
+        "Swedish": "Halloween",
+        "English": "Halloween"
+    },
+    {
+        "Swedish": "Marathon",
+        "English": "Marathon"
+    },
+    {
+        "Swedish": "Läppstift",
+        "English": "Lipstick"
+    },
+    {
+        "Swedish": "Katt",
+        "English": "Cat"
+    },
+    {
+        "Swedish": "Elefant",
+        "English": "Elephant"
+    },
+    {
+        "Swedish": "Rullstol",
+        "English": "Wheelchair"
+    },
+    {
+        "Swedish": "Blind dejt",
+        "English": "Blind date"
+    },
+    {
+        "Swedish": "Black Friday",
+        "English": "Black Friday"
+    },
+    {
+        "Swedish": "Mousaka",
+        "English": "Mousaka"
+    },
+    {
+        "Swedish": "Pita gyros",
+        "English": "Pita gyros"
+    },
+    {
+        "Swedish": "All inclusive",
+        "English": "All inclusive"
+    },
+    {
+        "Swedish": "Charader",
+        "English": "Charades"
+    },
+    {
+        "Swedish": "Systembolaget",
+        "English": "Systembolaget"
+    },
+    {
+        "Swedish": "Tacos",
+        "English": "Tacos"
+    },
+    {
+        "Swedish": "Skridskoåkning",
+        "English": "Ice skating"
+    },
+    {
+        "Swedish": "Spökhus",
+        "English": "Haunted house"
+    },
+    {
+        "Swedish": "Hängmatta",
+        "English": "Hammock"
+    },
+    {
+        "Swedish": "Grillfest",
+        "English": "Barbecue party"
+    },
+    {
+        "Swedish": "Julafton",
+        "English": "Christmas Eve"
+    },
+    {
+        "Swedish": "Påskhare",
+        "English": "Easter bunny"
+    },
+    {
+        "Swedish": "Bungeejump",
+        "English": "Bungee jump"
+    },
+    {
+        "Swedish": "Midsommarstång",
+        "English": "Midsummer pole"
+    },
+    {
+        "Swedish": "Dinosaurie",
+        "English": "Dinosaur"
+    },
+    {
+        "Swedish": "Tårta",
+        "English": "Cake"
+    },
+    {
+        "Swedish": "Vikingabåt",
+        "English": "Viking ship"
+    },
+    {
+        "Swedish": "Solnedgång",
+        "English": "Sunset"
+    },
+    {
+        "Swedish": "Tsunami",
+        "English": "Tsunami"
+    },
+    {
+        "Swedish": "Skäggtrimmer",
+        "English": "Beard trimmer"
+    },
+    {
+        "Swedish": "Karta",
+        "English": "Map"
+    },
+    {
+        "Swedish": "Vinterjacka",
+        "English": "Winter jacket"
+    },
+    {
+        "Swedish": "Nyårsafton",
+        "English": "New Year's Eve"
+    },
+    {
+        "Swedish": "Fars dag",
+        "English": "Father's Day"
+    },
+    {
+        "Swedish": "Gladiator",
+        "English": "Gladiator"
+    },
+    {
+        "Swedish": "Harry Potter",
+        "English": "Harry Potter"
+    },
+    {
+        "Swedish": "Spider-Man",
+        "English": "Spider-Man"
+    },
+    {
+        "Swedish": "James Bond",
+        "English": "James Bond"
+    },
+    {
+        "Swedish": "The Godfather",
+        "English": "The Godfather"
+    },
+    {
+        "Swedish": "Skräckfilm",
+        "English": "Horror movie"
+    },
+    {
+        "Swedish": "Titanic",
+        "English": "Titanic"
+    },
+    {
+        "Swedish": "Vampyr",
+        "English": "Vampire"
+    },
+    {
+        "Swedish": "Fikapaus",
+        "English": "Coffee break"
+    },
+    {
+        "Swedish": "Barbie",
+        "English": "Barbie"
+    },
+    {
+        "Swedish": "Fullmåne",
+        "English": "Full moon"
+    }
+]
